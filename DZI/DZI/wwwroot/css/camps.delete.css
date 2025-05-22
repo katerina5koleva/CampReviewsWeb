@@ -1,0 +1,52 @@
+﻿
+.card {
+    max-width: 600px;
+}
+
+.card-img-top {
+    object-fit: cover;
+    height: 400px;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.card-text {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+}
+
+.card-footer {
+    text-align: center;
+}
+
+    .card-footer .btn {
+        min-width: 120px;
+    }
+
+    .card-footer .btn-danger {
+        background-color: #dc3545;
+        border-color: #dc3545;
+    }
+
+    .card-footer .btn-secondary {
+        background-color: #6c757d;
+        border-color: #6c757d;
+    }
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 576px) {
+    .card {
+        margin-top: 20px;
+    }
+
+    .card-body {
+        padding: 1rem;
+    }
+
+    .card-footer .btn {
+        width: 100%;
+        margin-top: 10px;
+    }
+}

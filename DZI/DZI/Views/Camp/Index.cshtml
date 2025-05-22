@@ -1,0 +1,119 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model IEnumerable<CampRating.Data.Models.Camp>
+@inject UserManager<User> UserManager
+
+@{
+    ViewData["Title"] = "All Camps";
+    var currentUserId = UserManager.GetUserId(User);
+}
+
+<!-- Add Font Awesome for star icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<style>
+    .star-rating {
+        color: #ffc107;
+        font-size: 0.9rem;
+    }
+
+    .rating-count {
+        font-size: 0.8rem;
+        color: #6c757d;
+    }
+</style>
+
+<h2 class="text-center mb-4">@ViewData["Title"]</h2>
+
+<form method="get" asp-action="Index">
+    <div class="input-group mb-3">
+        <input type="text" name="searchQuery" class="form-control" placeholder="Search for a camp..." value="@ViewData["SearchQuery"]" />
+        <button class="btn btn-primary" type="submit">Search</button>
+    </div>
+</form>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info text-center">
+        @if (string.IsNullOrEmpty(ViewData["SearchQuery"]?.ToString()))
+        {
+            <span>There are no camps available!</span>
+        }
+        else
+        {
+            <span>No camps found for your search query: "@ViewData["SearchQuery"]"</span>
+        }
+    </div>
+}
+
+@if (User.IsInRole("Administrator"))
+{
+    <div class="text-center mb-4">
+        <a asp-action="Create" class="btn btn-primary">Add Camp</a>
+    </div>
+}
+
+<div class="row row-cols-1 row-cols-md-3 g-4">
+    @foreach (var camp in Model)
+    {
+        var averageRating = camp.CampRating?.Any() == true ? Math.Round(camp.CampRating.Average(r => r.CampRating), 1) : 0;
+        var ratingCount = camp.CampRating?.Count ?? 0;
+
+        <div class="col">
+            <div class="card h-100 shadow-sm">
+                <img src="@camp.Image" class="card-img-top" alt="@camp.Name" style="object-fit: cover; height: 250px;">
+                <div class="card-body">
+                    <h5 class="card-title">@camp.Name</h5>
+
+                    <!-- Rating Display -->
+                    <div class="d-flex align-items-center mb-2">
+                        <div class="star-rating me-2">
+                            @for (int i = 1; i <= 5; i++)
+                            {
+                                <i class="fa @(i <= averageRating ? "fa-star" : "fa-star-o")"></i>
+                            }
+                        </div>
+                        <span class="rating-count">@averageRating (@ratingCount @(ratingCount == 1 ? "review" : "reviews"))</span>
+                    </div>
+
+                    <p class="card-text">@camp.Description</p>
+                    <div class="row">
+                        <div class="col-6">
+                            <p class="card-text">
+                                <i class="bi bi-geo-alt"></i>
+                                <strong>Longitude:</strong> @camp.Longitude
+                            </p>
+                        </div>
+                        <div class="col-6">
+                            <p class="card-text">
+                                <i class="bi bi-geo-alt"></i>
+                                <strong>Latitude:</strong> @camp.Latitude
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-footer text-center">
+                    <div class="d-flex justify-content-center gap-2">
+                        <a asp-action="Details" asp-route-id="@camp.Id" class="btn btn-primary btn-sm">View Details</a>
+
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <a asp-controller="Rating"
+                               asp-action="Create"
+                               asp-route-campId="@camp.Id"
+                               asp-route-userId="@currentUserId"
+                               class="btn btn-success btn-sm">
+                                Rate
+                            </a>
+                        }
+
+                        @if (User.IsInRole("Administrator"))
+                        {
+                            <a asp-action="Edit" asp-route-id="@camp.Id" class="btn btn-warning btn-sm">Edit</a>
+                            <a asp-action="Delete" asp-route-id="@camp.Id" class="btn btn-danger btn-sm">Delete</a>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>

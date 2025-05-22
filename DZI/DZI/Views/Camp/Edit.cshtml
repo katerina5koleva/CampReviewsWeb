@@ -1,0 +1,59 @@
+﻿@model CampRating.Data.ViewModels.EditCampVM
+
+@{
+    ViewData["Title"] = "Edit Camp";
+}
+
+<h2 class="text-center mb-4">@ViewData["Title"]</h2>
+
+<form asp-action="Edit" enctype="multipart/form-data" method="post" class="edit-camp-form mx-auto">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger small"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Description" class="form-label"></label>
+        <textarea asp-for="Description" class="form-control" rows="4"></textarea>
+        <span asp-validation-for="Description" class="text-danger small"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Longitude" class="form-label"></label>
+        <input asp-for="Longitude" class="form-control" />
+        <span asp-validation-for="Longitude" class="text-danger small"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Latitude" class="form-label"></label>
+        <input asp-for="Latitude" class="form-control" />
+        <span asp-validation-for="Latitude" class="text-danger small"></span>
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Current Photo</label><br />
+        <img src="@Model.URL" alt="Current photo" class="current-photo img-thumbnail mb-2">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Image" class="form-label">New Photo (optional)</label>
+        <input asp-for="Image" class="form-control" type="file" />
+        <span asp-validation-for="Image" class="text-danger small"></span>
+    </div>
+
+    <div class="text-center button-group">
+        <button type="submit" class="btn btn-warning">Update Camp</button>
+        <a asp-action="Index" class="btn btn-secondary ms-2">Cancel</a>
+    </div>
+</form>
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/camps.edit.css" />
+}
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

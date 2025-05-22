@@ -1,0 +1,33 @@
+﻿@model CampRating.Data.Models.Rating
+
+@{
+    ViewData["Title"] = "Delete Rating";
+}
+
+<h2 class="text-center text-danger mb-4">@ViewData["Title"]</h2>
+
+<div class="row justify-content-center">
+    <div class="col-md-6 text-center">
+        <h5>Are you sure you want to delete this rating?</h5>
+
+        <div class="card delete-rating-card my-4">
+            <div class="card-body">
+                <p><strong>Camp Rating:</strong> @Model.CampRating</p>
+                <p><strong>Review:</strong> @Model.Review</p>
+                <p><strong>Date:</strong> @Model.DateOfRequest.ToShortDateString()</p>
+            </div>
+        </div>
+
+        <form asp-action="DeleteRating" method="post">
+            <input type="hidden" asp-for="Id" />
+            <div class="d-flex justify-content-center button-gap">
+                <a asp-action="@(User.IsInRole("Administrator") ? "Index" : "MyRatings")" class="btn btn-secondary">Cancel</a>
+                <button type="submit" class="btn btn-danger">Delete</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/delete-rating.css" />
+}

@@ -1,0 +1,16 @@
+﻿.star-rating {
+    color: #ffc107;
+    font-size: 1.2rem;
+}
+
+.checked {
+    color: #ffc107;
+}
+
+.fa-star-o:before {
+    content: "\f006";
+}
+
+.fa-star:before {
+    content: "\f005";
+}

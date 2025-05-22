@@ -1,0 +1,45 @@
+﻿@using CampRating.Data.ViewModels;
+@model AdminHomeIndexVM
+@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+
+<div class="container">
+    <h1 class="text-center mb-5">Hello, Administrator</h1>
+
+    <div class="row text-center">
+        <div class="col-md-4">
+            <div class="card admin-card">
+                <div class="card-body">
+                    <h5 class="card-title admin-card-title">Users</h5>
+                    <h2 class="card-text">@Model.UserCount</h2>
+                    <a asp-controller="User" asp-action="Index" class="btn btn-primary">Manage Users</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card admin-card">
+                <div class="card-body">
+                    <h5 class="card-title admin-card-title">Camps</h5>
+                    <h2 class="card-text">@Model.CampCount</h2>
+                    <a asp-controller="Camp" asp-action="Index" class="btn btn-primary">Manage Camps</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card admin-card">
+                <div class="card-body">
+                    <h5 class="card-title admin-card-title">Ratings</h5>
+                    <h2 class="card-text">@Model.RatingCount</h2>
+                    <a asp-controller="Rating" asp-action="Index" class="btn btn-primary">Manage Ratings</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/admin-dashboard.css" />
+}

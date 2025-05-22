@@ -1,0 +1,52 @@
+﻿@model CampRating.Data.ViewModels.CreateCampVM
+
+@{
+    ViewData["Title"] = "Create Camp";
+}
+
+<h2 class="text-center mb-4">@ViewData["Title"]</h2>
+
+<form asp-action="Create" enctype="multipart/form-data" method="post" class="mx-auto" style="max-width: 500px;">
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger small"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Description" class="form-label"></label>
+        <textarea asp-for="Description" class="form-control" rows="4"></textarea>
+        <span asp-validation-for="Description" class="text-danger small"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Image" class="form-label"></label>
+        <input asp-for="Image" class="form-control" type="file" />
+        <span asp-validation-for="Image" class="text-danger small"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Longitude" class="form-label"></label>
+        <input asp-for="Longitude" class="form-control" type="number" step="any" />
+        <span asp-validation-for="Longitude" class="text-danger small"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Latitude" class="form-label"></label>
+        <input asp-for="Latitude" class="form-control" type="number" step="any" />
+        <span asp-validation-for="Latitude" class="text-danger small"></span>
+    </div>
+
+    <div class="text-center">
+        <button type="submit" class="btn btn-success">Create Camp</button>
+        <a asp-action="Index" class="btn btn-secondary ms-2">Cancel</a>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/camps.css" />
+}

@@ -1,0 +1,12 @@
+﻿.edit-camp-form {
+    max-width: 500px;
+}
+
+.current-photo {
+    height: 200px;
+    object-fit: cover;
+}
+
+.button-group {
+    margin-top: 20px;
+}

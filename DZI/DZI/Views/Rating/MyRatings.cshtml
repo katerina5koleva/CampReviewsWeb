@@ -1,0 +1,53 @@
+﻿@model IEnumerable<CampRating.Data.Models.Rating>
+
+@{
+    ViewData["Title"] = "My Ratings";
+}
+
+<div class="text-center mb-4">
+    <a asp-controller="Camp" asp-action="Index" class="btn btn-primary">Add A Rating</a>
+</div>
+
+<h2 class="text-center mb-4">@ViewData["Title"]</h2>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info text-center">
+        You haven't rated any camps yet!
+    </div>
+}
+else
+{
+    <div class="table-responsive">
+        <table class="table my-ratings-table text-center align-middle">
+            <thead class="table-primary">
+                <tr>
+                    <th>Camp Rating</th>
+                    <th>Review</th>
+                    <th>Date</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var rating in Model)
+                {
+                    <tr>
+                        <td>@rating.CampRating</td>
+                        <td>@(string.IsNullOrEmpty(rating.Review) ? "No review" : rating.Review)</td>
+                        <td>@rating.DateOfRequest.ToShortDateString()</td>
+                        <td>
+                            <div class="btn-group">
+                                <a asp-action="Edit" asp-route-id="@rating.Id" class="btn btn-sm btn-primary">Edit</a>
+                                <a asp-action="Delete" asp-route-id="@rating.Id" class="btn btn-sm btn-danger">Delete</a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/my-ratings.css" />
+}

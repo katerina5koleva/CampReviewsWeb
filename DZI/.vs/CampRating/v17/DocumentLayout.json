@@ -1,0 +1,1237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77194611-052A-4EBC-ACE7-F273E0613F34}|DZI.Controllers\\CampRating.Controllers.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi.controllers\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77194611-052A-4EBC-ACE7-F273E0613F34}|DZI.Controllers\\CampRating.Controllers.csproj|solutionrelative:dzi.controllers\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8066DB-1045-483C-8FB6-FA29D61ABF30}|DZI.Services\\CampRating.Services.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi.services\\initializeadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA8066DB-1045-483C-8FB6-FA29D61ABF30}|DZI.Services\\CampRating.Services.csproj|solutionrelative:dzi.services\\initializeadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8066DB-1045-483C-8FB6-FA29D61ABF30}|DZI.Services\\CampRating.Services.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi.services\\photoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA8066DB-1045-483C-8FB6-FA29D61ABF30}|DZI.Services\\CampRating.Services.csproj|solutionrelative:dzi.services\\photoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C71BBDC-8B6E-4175-AF23-E243A3AE6C90}|DZI.Data\\CampRating.Data.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi.data\\helpers\\maxsizeofphotofileattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C71BBDC-8B6E-4175-AF23-E243A3AE6C90}|DZI.Data\\CampRating.Data.csproj|solutionrelative:dzi.data\\helpers\\maxsizeofphotofileattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77194611-052A-4EBC-ACE7-F273E0613F34}|DZI.Controllers\\CampRating.Controllers.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi.controllers\\controllers\\campcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77194611-052A-4EBC-ACE7-F273E0613F34}|DZI.Controllers\\CampRating.Controllers.csproj|solutionrelative:dzi.controllers\\controllers\\campcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C71BBDC-8B6E-4175-AF23-E243A3AE6C90}|DZI.Data\\CampRating.Data.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi.data\\viewmodels\\createratingvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C71BBDC-8B6E-4175-AF23-E243A3AE6C90}|DZI.Data\\CampRating.Data.csproj|solutionrelative:dzi.data\\viewmodels\\createratingvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C71BBDC-8B6E-4175-AF23-E243A3AE6C90}|DZI.Data\\CampRating.Data.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi.data\\viewmodels\\adminhomeindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C71BBDC-8B6E-4175-AF23-E243A3AE6C90}|DZI.Data\\CampRating.Data.csproj|solutionrelative:dzi.data\\viewmodels\\adminhomeindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C71BBDC-8B6E-4175-AF23-E243A3AE6C90}|DZI.Data\\CampRating.Data.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi.data\\viewmodels\\createcampvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C71BBDC-8B6E-4175-AF23-E243A3AE6C90}|DZI.Data\\CampRating.Data.csproj|solutionrelative:dzi.data\\viewmodels\\createcampvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C71BBDC-8B6E-4175-AF23-E243A3AE6C90}|DZI.Data\\CampRating.Data.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi.data\\viewmodels\\createuservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C71BBDC-8B6E-4175-AF23-E243A3AE6C90}|DZI.Data\\CampRating.Data.csproj|solutionrelative:dzi.data\\viewmodels\\createuservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C71BBDC-8B6E-4175-AF23-E243A3AE6C90}|DZI.Data\\CampRating.Data.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi.data\\viewmodels\\editcampvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C71BBDC-8B6E-4175-AF23-E243A3AE6C90}|DZI.Data\\CampRating.Data.csproj|solutionrelative:dzi.data\\viewmodels\\editcampvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C71BBDC-8B6E-4175-AF23-E243A3AE6C90}|DZI.Data\\CampRating.Data.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi.data\\viewmodels\\editratingvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C71BBDC-8B6E-4175-AF23-E243A3AE6C90}|DZI.Data\\CampRating.Data.csproj|solutionrelative:dzi.data\\viewmodels\\editratingvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C71BBDC-8B6E-4175-AF23-E243A3AE6C90}|DZI.Data\\CampRating.Data.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi.data\\viewmodels\\edituservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C71BBDC-8B6E-4175-AF23-E243A3AE6C90}|DZI.Data\\CampRating.Data.csproj|solutionrelative:dzi.data\\viewmodels\\edituservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C71BBDC-8B6E-4175-AF23-E243A3AE6C90}|DZI.Data\\CampRating.Data.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi.data\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C71BBDC-8B6E-4175-AF23-E243A3AE6C90}|DZI.Data\\CampRating.Data.csproj|solutionrelative:dzi.data\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C71BBDC-8B6E-4175-AF23-E243A3AE6C90}|DZI.Data\\CampRating.Data.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi.data\\viewmodels\\uservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C71BBDC-8B6E-4175-AF23-E243A3AE6C90}|DZI.Data\\CampRating.Data.csproj|solutionrelative:dzi.data\\viewmodels\\uservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77194611-052A-4EBC-ACE7-F273E0613F34}|DZI.Controllers\\CampRating.Controllers.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi.controllers\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77194611-052A-4EBC-ACE7-F273E0613F34}|DZI.Controllers\\CampRating.Controllers.csproj|solutionrelative:dzi.controllers\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77194611-052A-4EBC-ACE7-F273E0613F34}|DZI.Controllers\\CampRating.Controllers.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi.controllers\\controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77194611-052A-4EBC-ACE7-F273E0613F34}|DZI.Controllers\\CampRating.Controllers.csproj|solutionrelative:dzi.controllers\\controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8066DB-1045-483C-8FB6-FA29D61ABF30}|DZI.Services\\CampRating.Services.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi.services\\interfaces\\iphotoservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA8066DB-1045-483C-8FB6-FA29D61ABF30}|DZI.Services\\CampRating.Services.csproj|solutionrelative:dzi.services\\interfaces\\iphotoservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8066DB-1045-483C-8FB6-FA29D61ABF30}|DZI.Services\\CampRating.Services.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi.services\\helpers\\cloudinarysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA8066DB-1045-483C-8FB6-FA29D61ABF30}|DZI.Services\\CampRating.Services.csproj|solutionrelative:dzi.services\\helpers\\cloudinarysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B462EDA2-C9DE-4CD6-AEA6-41A60A710953}|DZI.Repositories\\CampRating.Repostories.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi.repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B462EDA2-C9DE-4CD6-AEA6-41A60A710953}|DZI.Repositories\\CampRating.Repostories.csproj|solutionrelative:dzi.repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B462EDA2-C9DE-4CD6-AEA6-41A60A710953}|DZI.Repositories\\CampRating.Repostories.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi.repositories\\ratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B462EDA2-C9DE-4CD6-AEA6-41A60A710953}|DZI.Repositories\\CampRating.Repostories.csproj|solutionrelative:dzi.repositories\\ratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B462EDA2-C9DE-4CD6-AEA6-41A60A710953}|DZI.Repositories\\CampRating.Repostories.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi.repositories\\camprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B462EDA2-C9DE-4CD6-AEA6-41A60A710953}|DZI.Repositories\\CampRating.Repostories.csproj|solutionrelative:dzi.repositories\\camprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B462EDA2-C9DE-4CD6-AEA6-41A60A710953}|DZI.Repositories\\CampRating.Repostories.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi.repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B462EDA2-C9DE-4CD6-AEA6-41A60A710953}|DZI.Repositories\\CampRating.Repostories.csproj|solutionrelative:dzi.repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B462EDA2-C9DE-4CD6-AEA6-41A60A710953}|DZI.Repositories\\CampRating.Repostories.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi.repositories\\interfaces\\iratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B462EDA2-C9DE-4CD6-AEA6-41A60A710953}|DZI.Repositories\\CampRating.Repostories.csproj|solutionrelative:dzi.repositories\\interfaces\\iratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B462EDA2-C9DE-4CD6-AEA6-41A60A710953}|DZI.Repositories\\CampRating.Repostories.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi.repositories\\interfaces\\icamprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B462EDA2-C9DE-4CD6-AEA6-41A60A710953}|DZI.Repositories\\CampRating.Repostories.csproj|solutionrelative:dzi.repositories\\interfaces\\icamprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\views\\rating\\myratings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\views\\rating\\myratings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\views\\rating\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\views\\rating\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\views\\rating\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\views\\rating\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\views\\rating\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\views\\rating\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\views\\rating\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\views\\rating\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\views\\home\\adminhomeindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\views\\home\\adminhomeindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\views\\camp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\views\\camp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\views\\camp\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\views\\camp\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\views\\camp\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\views\\camp\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\views\\camp\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\views\\camp\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\views\\camp\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\views\\camp\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C71BBDC-8B6E-4175-AF23-E243A3AE6C90}|DZI.Data\\CampRating.Data.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C71BBDC-8B6E-4175-AF23-E243A3AE6C90}|DZI.Data\\CampRating.Data.csproj|solutionrelative:dzi.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C71BBDC-8B6E-4175-AF23-E243A3AE6C90}|DZI.Data\\CampRating.Data.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C71BBDC-8B6E-4175-AF23-E243A3AE6C90}|DZI.Data\\CampRating.Data.csproj|solutionrelative:dzi.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C71BBDC-8B6E-4175-AF23-E243A3AE6C90}|DZI.Data\\CampRating.Data.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi.data\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C71BBDC-8B6E-4175-AF23-E243A3AE6C90}|DZI.Data\\CampRating.Data.csproj|solutionrelative:dzi.data\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C71BBDC-8B6E-4175-AF23-E243A3AE6C90}|DZI.Data\\CampRating.Data.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi.data\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C71BBDC-8B6E-4175-AF23-E243A3AE6C90}|DZI.Data\\CampRating.Data.csproj|solutionrelative:dzi.data\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C71BBDC-8B6E-4175-AF23-E243A3AE6C90}|DZI.Data\\CampRating.Data.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi.data\\models\\camp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C71BBDC-8B6E-4175-AF23-E243A3AE6C90}|DZI.Data\\CampRating.Data.csproj|solutionrelative:dzi.data\\models\\camp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\wwwroot\\css\\user-index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\wwwroot\\css\\user-index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\wwwroot\\css\\user-edit.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\wwwroot\\css\\user-edit.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\wwwroot\\css\\user-details.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\wwwroot\\css\\user-details.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\wwwroot\\css\\user-delete.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\wwwroot\\css\\user-delete.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\wwwroot\\css\\user-create.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\wwwroot\\css\\user-create.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\wwwroot\\css\\my-ratings.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\wwwroot\\css\\my-ratings.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\wwwroot\\css\\all-ratings.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\wwwroot\\css\\all-ratings.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\wwwroot\\css\\rating-edit.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\wwwroot\\css\\rating-edit.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\wwwroot\\css\\delete-rating.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\wwwroot\\css\\delete-rating.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\wwwroot\\css\\create-rating.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\wwwroot\\css\\create-rating.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\wwwroot\\css\\home-page.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\wwwroot\\css\\home-page.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\wwwroot\\css\\admin-dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\wwwroot\\css\\admin-dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\wwwroot\\css\\camps.index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\wwwroot\\css\\camps.index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\wwwroot\\css\\camps.edit.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\wwwroot\\css\\camps.edit.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\wwwroot\\css\\camps.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\wwwroot\\css\\camps.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\wwwroot\\css\\camps.details.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\wwwroot\\css\\camps.details.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\wwwroot\\css\\camps.delete.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\wwwroot\\css\\camps.delete.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\camprating.net.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\camprating.net.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7F735FA-8A8B-43F3-8E9B-9122475C1325}|DZI\\CampRating.Net.csproj|solutionrelative:dzi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C71BBDC-8B6E-4175-AF23-E243A3AE6C90}|DZI.Data\\CampRating.Data.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi.data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C71BBDC-8B6E-4175-AF23-E243A3AE6C90}|DZI.Data\\CampRating.Data.csproj|solutionrelative:dzi.data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C71BBDC-8B6E-4175-AF23-E243A3AE6C90}|DZI.Data\\CampRating.Data.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi.data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C71BBDC-8B6E-4175-AF23-E243A3AE6C90}|DZI.Data\\CampRating.Data.csproj|solutionrelative:dzi.data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B462EDA2-C9DE-4CD6-AEA6-41A60A710953}|DZI.Repositories\\CampRating.Repostories.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi.repositories\\camprating.repostories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B462EDA2-C9DE-4CD6-AEA6-41A60A710953}|DZI.Repositories\\CampRating.Repostories.csproj|solutionrelative:dzi.repositories\\camprating.repostories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C71BBDC-8B6E-4175-AF23-E243A3AE6C90}|DZI.Data\\CampRating.Data.csproj|c:\\users\\katik\\downloads\\14_dzi\\dzi\\dzi.data\\migrations\\20250427075511_initialcreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C71BBDC-8B6E-4175-AF23-E243A3AE6C90}|DZI.Data\\CampRating.Data.csproj|solutionrelative:dzi.data\\migrations\\20250427075511_initialcreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Data\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "DZI.Data\\ViewModels\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Data\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "DZI.Data\\ViewModels\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:11:28.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CampController.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Controllers\\Controllers\\CampController.cs",
+              "RelativeDocumentMoniker": "DZI.Controllers\\Controllers\\CampController.cs",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Controllers\\Controllers\\CampController.cs",
+              "RelativeToolTip": "DZI.Controllers\\Controllers\\CampController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA7wDIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:46:25.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateRatingVM.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Data\\ViewModels\\CreateRatingVM.cs",
+              "RelativeDocumentMoniker": "DZI.Data\\ViewModels\\CreateRatingVM.cs",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Data\\ViewModels\\CreateRatingVM.cs",
+              "RelativeToolTip": "DZI.Data\\ViewModels\\CreateRatingVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:13:16.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MaxSizeOfPhotoFileAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Data\\Helpers\\MaxSizeOfPhotoFileAttribute.cs",
+              "RelativeDocumentMoniker": "DZI.Data\\Helpers\\MaxSizeOfPhotoFileAttribute.cs",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Data\\Helpers\\MaxSizeOfPhotoFileAttribute.cs",
+              "RelativeToolTip": "DZI.Data\\Helpers\\MaxSizeOfPhotoFileAttribute.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:18:40.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InitializeAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Services\\InitializeAdmin.cs",
+              "RelativeDocumentMoniker": "DZI.Services\\InitializeAdmin.cs",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Services\\InitializeAdmin.cs",
+              "RelativeToolTip": "DZI.Services\\InitializeAdmin.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwC4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:28:29.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhotoService.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Services\\PhotoService.cs",
+              "RelativeDocumentMoniker": "DZI.Services\\PhotoService.cs",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Services\\PhotoService.cs",
+              "RelativeToolTip": "DZI.Services\\PhotoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:01:07.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Controllers\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "DZI.Controllers\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Controllers\\Controllers\\UserController.cs",
+              "RelativeToolTip": "DZI.Controllers\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:44:30.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminHomeIndexVM.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Data\\ViewModels\\AdminHomeIndexVM.cs",
+              "RelativeDocumentMoniker": "DZI.Data\\ViewModels\\AdminHomeIndexVM.cs",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Data\\ViewModels\\AdminHomeIndexVM.cs",
+              "RelativeToolTip": "DZI.Data\\ViewModels\\AdminHomeIndexVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:23:50.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditUserVM.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Data\\ViewModels\\EditUserVM.cs",
+              "RelativeDocumentMoniker": "DZI.Data\\ViewModels\\EditUserVM.cs",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Data\\ViewModels\\EditUserVM.cs",
+              "RelativeToolTip": "DZI.Data\\ViewModels\\EditUserVM.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:12:03.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditRatingVM.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Data\\ViewModels\\EditRatingVM.cs",
+              "RelativeDocumentMoniker": "DZI.Data\\ViewModels\\EditRatingVM.cs",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Data\\ViewModels\\EditRatingVM.cs",
+              "RelativeToolTip": "DZI.Data\\ViewModels\\EditRatingVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:14:02.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditCampVM.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Data\\ViewModels\\EditCampVM.cs",
+              "RelativeDocumentMoniker": "DZI.Data\\ViewModels\\EditCampVM.cs",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Data\\ViewModels\\EditCampVM.cs",
+              "RelativeToolTip": "DZI.Data\\ViewModels\\EditCampVM.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:22:30.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateUserVM.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Data\\ViewModels\\CreateUserVM.cs",
+              "RelativeDocumentMoniker": "DZI.Data\\ViewModels\\CreateUserVM.cs",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Data\\ViewModels\\CreateUserVM.cs",
+              "RelativeToolTip": "DZI.Data\\ViewModels\\CreateUserVM.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:12:21.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateCampVM.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Data\\ViewModels\\CreateCampVM.cs",
+              "RelativeDocumentMoniker": "DZI.Data\\ViewModels\\CreateCampVM.cs",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Data\\ViewModels\\CreateCampVM.cs",
+              "RelativeToolTip": "DZI.Data\\ViewModels\\CreateCampVM.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:14:52.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserVM.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Data\\ViewModels\\UserVM.cs",
+              "RelativeDocumentMoniker": "DZI.Data\\ViewModels\\UserVM.cs",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Data\\ViewModels\\UserVM.cs",
+              "RelativeToolTip": "DZI.Data\\ViewModels\\UserVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:10:10.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Controllers\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DZI.Controllers\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Controllers\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DZI.Controllers\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwDEAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T14:00:11.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RatingController.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Controllers\\Controllers\\RatingController.cs",
+              "RelativeDocumentMoniker": "DZI.Controllers\\Controllers\\RatingController.cs",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Controllers\\Controllers\\RatingController.cs",
+              "RelativeToolTip": "DZI.Controllers\\Controllers\\RatingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T10:17:47.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IPhotoServicecs.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Services\\Interfaces\\IPhotoServicecs.cs",
+              "RelativeDocumentMoniker": "DZI.Services\\Interfaces\\IPhotoServicecs.cs",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Services\\Interfaces\\IPhotoServicecs.cs",
+              "RelativeToolTip": "DZI.Services\\Interfaces\\IPhotoServicecs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:25:42.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CloudinarySettings.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Services\\Helpers\\CloudinarySettings.cs",
+              "RelativeDocumentMoniker": "DZI.Services\\Helpers\\CloudinarySettings.cs",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Services\\Helpers\\CloudinarySettings.cs",
+              "RelativeToolTip": "DZI.Services\\Helpers\\CloudinarySettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:26:59.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DZI.Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Repositories\\UserRepository.cs",
+              "RelativeToolTip": "DZI.Repositories\\UserRepository.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwCgAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:02:13.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RatingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Repositories\\RatingRepository.cs",
+              "RelativeDocumentMoniker": "DZI.Repositories\\RatingRepository.cs",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Repositories\\RatingRepository.cs",
+              "RelativeToolTip": "DZI.Repositories\\RatingRepository.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAlwCUAAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:02:41.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CampRepository.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Repositories\\CampRepository.cs",
+              "RelativeDocumentMoniker": "DZI.Repositories\\CampRepository.cs",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Repositories\\CampRepository.cs",
+              "RelativeToolTip": "DZI.Repositories\\CampRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:00:44.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DZI.Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "DZI.Repositories\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:57:25.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IRatingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Repositories\\Interfaces\\IRatingRepository.cs",
+              "RelativeDocumentMoniker": "DZI.Repositories\\Interfaces\\IRatingRepository.cs",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Repositories\\Interfaces\\IRatingRepository.cs",
+              "RelativeToolTip": "DZI.Repositories\\Interfaces\\IRatingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:58:03.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ICampRepository.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Repositories\\Interfaces\\ICampRepository.cs",
+              "RelativeDocumentMoniker": "DZI.Repositories\\Interfaces\\ICampRepository.cs",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Repositories\\Interfaces\\ICampRepository.cs",
+              "RelativeToolTip": "DZI.Repositories\\Interfaces\\ICampRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:58:19.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Program.cs",
+              "RelativeDocumentMoniker": "DZI\\Program.cs",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Program.cs",
+              "RelativeToolTip": "DZI\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADgv0EAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:23:58.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DZI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DZI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T08:55:06.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MyRatings.cshtml",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\Rating\\MyRatings.cshtml",
+              "RelativeDocumentMoniker": "DZI\\Views\\Rating\\MyRatings.cshtml",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\Rating\\MyRatings.cshtml",
+              "RelativeToolTip": "DZI\\Views\\Rating\\MyRatings.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T09:17:41.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\Rating\\Index.cshtml",
+              "RelativeDocumentMoniker": "DZI\\Views\\Rating\\Index.cshtml",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\Rating\\Index.cshtml",
+              "RelativeToolTip": "DZI\\Views\\Rating\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T09:15:40.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\Rating\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DZI\\Views\\Rating\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\Rating\\Edit.cshtml",
+              "RelativeToolTip": "DZI\\Views\\Rating\\Edit.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T09:14:34.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\Rating\\Create.cshtml",
+              "RelativeDocumentMoniker": "DZI\\Views\\Rating\\Create.cshtml",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\Rating\\Create.cshtml",
+              "RelativeToolTip": "DZI\\Views\\Rating\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T09:12:24.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\Rating\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DZI\\Views\\Rating\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\Rating\\Delete.cshtml",
+              "RelativeToolTip": "DZI\\Views\\Rating\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T09:13:27.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DZI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DZI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T09:58:20.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AdminHomeIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\Home\\AdminHomeIndex.cshtml",
+              "RelativeDocumentMoniker": "DZI\\Views\\Home\\AdminHomeIndex.cshtml",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\Home\\AdminHomeIndex.cshtml",
+              "RelativeToolTip": "DZI\\Views\\Home\\AdminHomeIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T10:06:31.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\Camp\\Index.cshtml",
+              "RelativeDocumentMoniker": "DZI\\Views\\Camp\\Index.cshtml",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\Camp\\Index.cshtml",
+              "RelativeToolTip": "DZI\\Views\\Camp\\Index.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T09:34:19.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\Camp\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DZI\\Views\\Camp\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\Camp\\Edit.cshtml",
+              "RelativeToolTip": "DZI\\Views\\Camp\\Edit.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T09:32:05.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\Camp\\Details.cshtml",
+              "RelativeDocumentMoniker": "DZI\\Views\\Camp\\Details.cshtml",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\Camp\\Details.cshtml",
+              "RelativeToolTip": "DZI\\Views\\Camp\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T09:28:13.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\Camp\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DZI\\Views\\Camp\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\Camp\\Delete.cshtml",
+              "RelativeToolTip": "DZI\\Views\\Camp\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T09:21:05.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\Camp\\Create.cshtml",
+              "RelativeDocumentMoniker": "DZI\\Views\\Camp\\Create.cshtml",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\Camp\\Create.cshtml",
+              "RelativeToolTip": "DZI\\Views\\Camp\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T09:18:50.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DZI.Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DZI.Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:21:53.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Data\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DZI.Data\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Data\\Models\\User.cs",
+              "RelativeToolTip": "DZI.Data\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:08:32.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Data\\Models\\Rating.cs",
+              "RelativeDocumentMoniker": "DZI.Data\\Models\\Rating.cs",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Data\\Models\\Rating.cs",
+              "RelativeToolTip": "DZI.Data\\Models\\Rating.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:10:49.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Data\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "DZI.Data\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Data\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "DZI.Data\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T14:04:24.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Camp.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Data\\Models\\Camp.cs",
+              "RelativeDocumentMoniker": "DZI.Data\\Models\\Camp.cs",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Data\\Models\\Camp.cs",
+              "RelativeToolTip": "DZI.Data\\Models\\Camp.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:11:53.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "DZI\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "DZI\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T07:37:24.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "DZI\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "DZI\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T08:54:20.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "DZI\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "DZI\\Views\\User\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T09:11:38.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DZI\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "DZI\\Views\\User\\Edit.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T09:00:17.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "DZI\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "DZI\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAwwEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T09:10:37.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "user-index.css",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\wwwroot\\css\\user-index.css",
+              "RelativeDocumentMoniker": "DZI\\wwwroot\\css\\user-index.css",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\wwwroot\\css\\user-index.css",
+              "RelativeToolTip": "DZI\\wwwroot\\css\\user-index.css",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-27T12:26:24.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "login.css",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\wwwroot\\css\\login.css",
+              "RelativeDocumentMoniker": "DZI\\wwwroot\\css\\login.css",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\wwwroot\\css\\login.css",
+              "RelativeToolTip": "DZI\\wwwroot\\css\\login.css",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-27T12:27:32.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DZI\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "DZI\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T07:36:51.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\User\\Details.cshtml",
+              "RelativeDocumentMoniker": "DZI\\Views\\User\\Details.cshtml",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\User\\Details.cshtml",
+              "RelativeToolTip": "DZI\\Views\\User\\Details.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T08:58:15.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "user-edit.css",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\wwwroot\\css\\user-edit.css",
+              "RelativeDocumentMoniker": "DZI\\wwwroot\\css\\user-edit.css",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\wwwroot\\css\\user-edit.css",
+              "RelativeToolTip": "DZI\\wwwroot\\css\\user-edit.css",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-27T12:20:40.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "DZI\\Views\\User\\Create.cshtml",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "DZI\\Views\\User\\Create.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T08:56:28.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "user-details.css",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\wwwroot\\css\\user-details.css",
+              "RelativeDocumentMoniker": "DZI\\wwwroot\\css\\user-details.css",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\wwwroot\\css\\user-details.css",
+              "RelativeToolTip": "DZI\\wwwroot\\css\\user-details.css",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-27T12:19:24.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\User\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DZI\\Views\\User\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\Views\\User\\Delete.cshtml",
+              "RelativeToolTip": "DZI\\Views\\User\\Delete.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T08:57:22.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "user-delete.css",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\wwwroot\\css\\user-delete.css",
+              "RelativeDocumentMoniker": "DZI\\wwwroot\\css\\user-delete.css",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\wwwroot\\css\\user-delete.css",
+              "RelativeToolTip": "DZI\\wwwroot\\css\\user-delete.css",
+              "ViewState": "AgIAACAAAAAAAAAAAAAkwDkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-27T12:17:27.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "user-create.css",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\wwwroot\\css\\user-create.css",
+              "RelativeDocumentMoniker": "DZI\\wwwroot\\css\\user-create.css",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\wwwroot\\css\\user-create.css",
+              "RelativeToolTip": "DZI\\wwwroot\\css\\user-create.css",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-27T12:12:33.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "my-ratings.css",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\wwwroot\\css\\my-ratings.css",
+              "RelativeDocumentMoniker": "DZI\\wwwroot\\css\\my-ratings.css",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\wwwroot\\css\\my-ratings.css",
+              "RelativeToolTip": "DZI\\wwwroot\\css\\my-ratings.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-27T12:11:42.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "all-ratings.css",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\wwwroot\\css\\all-ratings.css",
+              "RelativeDocumentMoniker": "DZI\\wwwroot\\css\\all-ratings.css",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\wwwroot\\css\\all-ratings.css",
+              "RelativeToolTip": "DZI\\wwwroot\\css\\all-ratings.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-27T12:10:50.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "rating-edit.css",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\wwwroot\\css\\rating-edit.css",
+              "RelativeDocumentMoniker": "DZI\\wwwroot\\css\\rating-edit.css",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\wwwroot\\css\\rating-edit.css",
+              "RelativeToolTip": "DZI\\wwwroot\\css\\rating-edit.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-27T12:09:51.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "delete-rating.css",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\wwwroot\\css\\delete-rating.css",
+              "RelativeDocumentMoniker": "DZI\\wwwroot\\css\\delete-rating.css",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\wwwroot\\css\\delete-rating.css",
+              "RelativeToolTip": "DZI\\wwwroot\\css\\delete-rating.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-27T12:08:57.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "create-rating.css",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\wwwroot\\css\\create-rating.css",
+              "RelativeDocumentMoniker": "DZI\\wwwroot\\css\\create-rating.css",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\wwwroot\\css\\create-rating.css",
+              "RelativeToolTip": "DZI\\wwwroot\\css\\create-rating.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-27T12:07:50.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "home-page.css",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\wwwroot\\css\\home-page.css",
+              "RelativeDocumentMoniker": "DZI\\wwwroot\\css\\home-page.css",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\wwwroot\\css\\home-page.css",
+              "RelativeToolTip": "DZI\\wwwroot\\css\\home-page.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-27T12:06:38.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "admin-dashboard.css",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\wwwroot\\css\\admin-dashboard.css",
+              "RelativeDocumentMoniker": "DZI\\wwwroot\\css\\admin-dashboard.css",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\wwwroot\\css\\admin-dashboard.css",
+              "RelativeToolTip": "DZI\\wwwroot\\css\\admin-dashboard.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-27T12:05:29.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "camps.index.css",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\wwwroot\\css\\camps.index.css",
+              "RelativeDocumentMoniker": "DZI\\wwwroot\\css\\camps.index.css",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\wwwroot\\css\\camps.index.css",
+              "RelativeToolTip": "DZI\\wwwroot\\css\\camps.index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-27T12:04:10.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "camps.edit.css",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\wwwroot\\css\\camps.edit.css",
+              "RelativeDocumentMoniker": "DZI\\wwwroot\\css\\camps.edit.css",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\wwwroot\\css\\camps.edit.css",
+              "RelativeToolTip": "DZI\\wwwroot\\css\\camps.edit.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-27T12:02:40.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "camps.css",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\wwwroot\\css\\camps.css",
+              "RelativeDocumentMoniker": "DZI\\wwwroot\\css\\camps.css",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\wwwroot\\css\\camps.css",
+              "RelativeToolTip": "DZI\\wwwroot\\css\\camps.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-27T11:48:44.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "camps.details.css",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\wwwroot\\css\\camps.details.css",
+              "RelativeDocumentMoniker": "DZI\\wwwroot\\css\\camps.details.css",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\wwwroot\\css\\camps.details.css",
+              "RelativeToolTip": "DZI\\wwwroot\\css\\camps.details.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-27T11:57:39.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "camps.delete.css",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\wwwroot\\css\\camps.delete.css",
+              "RelativeDocumentMoniker": "DZI\\wwwroot\\css\\camps.delete.css",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\wwwroot\\css\\camps.delete.css",
+              "RelativeToolTip": "DZI\\wwwroot\\css\\camps.delete.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-27T11:54:16.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "CampRating.Net.csproj",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\CampRating.Net.csproj",
+              "RelativeDocumentMoniker": "DZI\\CampRating.Net.csproj",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\CampRating.Net.csproj",
+              "RelativeToolTip": "DZI\\CampRating.Net.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-27T08:55:56.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20250427075511_InitialCreate2.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Data\\Migrations\\20250427075511_InitialCreate2.cs",
+              "RelativeDocumentMoniker": "DZI.Data\\Migrations\\20250427075511_InitialCreate2.cs",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Data\\Migrations\\20250427075511_InitialCreate2.cs",
+              "RelativeToolTip": "DZI.Data\\Migrations\\20250427075511_InitialCreate2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:55:11.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DZI.Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "DZI.Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:34:55.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\appsettings.json",
+              "RelativeDocumentMoniker": "DZI\\appsettings.json",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI\\appsettings.json",
+              "RelativeToolTip": "DZI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-27T07:28:38.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "00000000000000_CreateIdentitySchema.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeDocumentMoniker": "DZI.Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeToolTip": "DZI.Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:31:56.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "CampRating.Repostories.csproj",
+              "DocumentMoniker": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Repositories\\CampRating.Repostories.csproj",
+              "RelativeDocumentMoniker": "DZI.Repositories\\CampRating.Repostories.csproj",
+              "ToolTip": "C:\\Users\\katik\\Downloads\\14_DZI\\DZI\\DZI.Repositories\\CampRating.Repostories.csproj",
+              "RelativeToolTip": "DZI.Repositories\\CampRating.Repostories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-26T13:20:13.473Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

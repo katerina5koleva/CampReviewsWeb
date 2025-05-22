@@ -1,0 +1,14 @@
+C:\Users\katik\Downloads\14_DZI\DZI\DZI.Data\bin\Debug\net9.0\CampRating.Data.deps.json
+C:\Users\katik\Downloads\14_DZI\DZI\DZI.Data\bin\Debug\net9.0\CampRating.Data.runtimeconfig.json
+C:\Users\katik\Downloads\14_DZI\DZI\DZI.Data\bin\Debug\net9.0\CampRating.Data.dll
+C:\Users\katik\Downloads\14_DZI\DZI\DZI.Data\bin\Debug\net9.0\CampRating.Data.pdb
+C:\Users\katik\Downloads\14_DZI\DZI\DZI.Data\obj\Debug\net9.0\CampRating.Data.csproj.AssemblyReference.cache
+C:\Users\katik\Downloads\14_DZI\DZI\DZI.Data\obj\Debug\net9.0\CampRating.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katik\Downloads\14_DZI\DZI\DZI.Data\obj\Debug\net9.0\CampRating.Data.AssemblyInfoInputs.cache
+C:\Users\katik\Downloads\14_DZI\DZI\DZI.Data\obj\Debug\net9.0\CampRating.Data.AssemblyInfo.cs
+C:\Users\katik\Downloads\14_DZI\DZI\DZI.Data\obj\Debug\net9.0\CampRating.Data.csproj.CoreCompileInputs.cache
+C:\Users\katik\Downloads\14_DZI\DZI\DZI.Data\obj\Debug\net9.0\CampRating.Data.dll
+C:\Users\katik\Downloads\14_DZI\DZI\DZI.Data\obj\Debug\net9.0\refint\CampRating.Data.dll
+C:\Users\katik\Downloads\14_DZI\DZI\DZI.Data\obj\Debug\net9.0\CampRating.Data.pdb
+C:\Users\katik\Downloads\14_DZI\DZI\DZI.Data\obj\Debug\net9.0\CampRating.Data.genruntimeconfig.cache
+C:\Users\katik\Downloads\14_DZI\DZI\DZI.Data\obj\Debug\net9.0\ref\CampRating.Data.dll

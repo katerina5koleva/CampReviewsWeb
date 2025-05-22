@@ -1,0 +1,44 @@
+﻿@model CampRating.Data.ViewModels.CreateRatingVM
+
+@{
+    ViewData["Title"] = "Create Rating";
+}
+
+<h2 class="text-center mb-4">@ViewData["Title"]</h2>
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <form asp-action="Create" method="post">
+            <div asp-validation-summary="All" class="text-danger"></div>
+
+            <input type="hidden" asp-for="CampID" />
+            <input type="hidden" asp-for="UserID" />
+
+            <div class="mb-3">
+                <label asp-for="CampRating" class="form-label">Camp Rating</label>
+                <div class="input-group rating-input-group">
+                    <input asp-for="CampRating" class="form-control form-control-sm rating-input" type="number" min="1" max="5" />
+
+                    <span class="input-group-text rating-star">
+                        &#9733;
+                    </span>
+                </div>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Review" class="form-label"></label>
+                <textarea asp-for="Review" class="form-control" rows="5"></textarea>
+                <span asp-validation-for="Review" class="text-danger"></span>
+            </div>
+
+            <div class="d-flex justify-content-between">
+                <a asp-action="@(User.IsInRole("Administrator") ? "Index" : "MyRatings")" class="btn btn-secondary">Cancel</a>
+                <button type="submit" class="btn btn-primary">Create</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/create-rating.css" />
+}

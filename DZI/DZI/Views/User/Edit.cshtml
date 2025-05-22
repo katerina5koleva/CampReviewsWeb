@@ -1,0 +1,103 @@
+﻿@using CampRating.Data.ViewModels
+@model EditUserVM
+
+<h2>Edit User</h2>
+
+<form asp-action="Edit" method="post" id="editForm" onsubmit="return handleSubmit(event)">
+    @Html.AntiForgeryToken()
+    <input type="hidden" asp-for="Id" />
+
+    <div class="form-group">
+        <label asp-for="Firstname"></label>
+        <input asp-for="Firstname" class="form-control" />
+        <span asp-validation-for="Firstname" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="LastName"></label>
+        <input asp-for="LastName" class="form-control" />
+        <span asp-validation-for="LastName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="UserName"></label>
+        <input asp-for="UserName" class="form-control" />
+        <span asp-validation-for="UserName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="CurrentPassword"></label>
+        <input asp-for="CurrentPassword" class="form-control" />
+        <span asp-validation-for="CurrentPassword" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="NewPassword"></label>
+        <input asp-for="NewPassword" class="form-control" />
+        <span asp-validation-for="NewPassword" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ConfirmPassword"></label>
+        <input asp-for="ConfirmPassword" class="form-control" />
+        <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary" id="submitBtn"
+            onclick="return handleFormSubmit(event)">
+        Save Changes
+    </button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    <script>
+        function handleFormSubmit(event) {
+            event.preventDefault();
+            const form = document.getElementById('editForm');
+            const submitBtn = document.getElementById('submitBtn');
+
+            // Show loading state
+            submitBtn.disabled = true;
+            submitBtn.innerHTML = `
+                <span class="spinner-border spinner-border-sm" role="status"></span>
+                Saving...
+            `;
+
+            // Create proper FormData
+            const formData = new URLSearchParams();
+            for (const pair of new FormData(form)) {
+                formData.append(pair[0], pair[1]);
+            }
+
+            // Submit via fetch
+            fetch(form.action, {
+                method: 'POST',
+                body: formData,
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded',
+                }
+            })
+            .then(response => {
+                if (response.redirected) {
+                    window.location.href = response.url;
+                } else {
+                    return response.text().then(html => {
+                        document.documentElement.innerHTML = html;
+                    });
+                }
+            })
+            .catch(error => {
+                console.error('Submission error:', error);
+                submitBtn.disabled = false;
+                submitBtn.textContent = 'Save Changes';
+            });
+
+            return false;
+        }
+    </script>
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/user-edit.css" />
+}

@@ -1,0 +1,46 @@
+﻿@model CampRating.Data.ViewModels.EditRatingVM
+
+@{
+    ViewData["Title"] = "Edit Rating";
+}
+
+<h2 class="text-center mb-4">@ViewData["Title"]</h2>
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <form asp-action="Edit" method="post">
+            <input type="hidden" asp-for="ID" />
+            <input type="hidden" asp-for="UserID" />
+            <input type="hidden" asp-for="CampID" />
+
+            <div asp-validation-summary="All" class="text-danger"></div>
+
+            <div class="mb-3">
+                <label asp-for="CampRating" class="form-label">Camp Rating</label>
+                <div class="input-group">
+                    <input asp-for="CampRating" class="form-control form-control-sm rating-input" type="number" min="1" max="5" />
+
+                    <span class="input-group-text star-symbol">
+                        &#9733;
+                    </span>
+                </div>
+                <span asp-validation-for="CampRating" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Review" class="form-label"></label>
+                <textarea asp-for="Review" class="form-control" rows="5"></textarea>
+                <span asp-validation-for="Review" class="text-danger"></span>
+            </div>
+
+            <div class="d-flex justify-content-between">
+                <a asp-action="@(User.IsInRole("Administrator") ? "Index" : "MyRatings")" class="btn btn-secondary">Cancel</a>
+                <button type="submit" class="btn btn-primary">Save Changes</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/edit-rating.css" />
+}

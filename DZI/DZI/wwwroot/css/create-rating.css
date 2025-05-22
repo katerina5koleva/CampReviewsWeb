@@ -1,0 +1,12 @@
+﻿.rating-input-group {
+    align-items: center;
+}
+
+.rating-input {
+    width: 70px;
+}
+
+.rating-star {
+    font-size: 1.5rem;
+    color: #ffc107;
+}

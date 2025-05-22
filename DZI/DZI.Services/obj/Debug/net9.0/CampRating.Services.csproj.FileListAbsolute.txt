@@ -1,0 +1,17 @@
+C:\Users\katik\Downloads\14_DZI\DZI\DZI.Services\bin\Debug\net9.0\CampRating.Services.deps.json
+C:\Users\katik\Downloads\14_DZI\DZI\DZI.Services\bin\Debug\net9.0\CampRating.Services.dll
+C:\Users\katik\Downloads\14_DZI\DZI\DZI.Services\bin\Debug\net9.0\CampRating.Services.pdb
+C:\Users\katik\Downloads\14_DZI\DZI\DZI.Services\bin\Debug\net9.0\CampRating.Data.dll
+C:\Users\katik\Downloads\14_DZI\DZI\DZI.Services\bin\Debug\net9.0\CampRating.Repostories.dll
+C:\Users\katik\Downloads\14_DZI\DZI\DZI.Services\bin\Debug\net9.0\CampRating.Data.pdb
+C:\Users\katik\Downloads\14_DZI\DZI\DZI.Services\bin\Debug\net9.0\CampRating.Repostories.pdb
+C:\Users\katik\Downloads\14_DZI\DZI\DZI.Services\obj\Debug\net9.0\CampRating.Services.csproj.AssemblyReference.cache
+C:\Users\katik\Downloads\14_DZI\DZI\DZI.Services\obj\Debug\net9.0\CampRating.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katik\Downloads\14_DZI\DZI\DZI.Services\obj\Debug\net9.0\CampRating.Services.AssemblyInfoInputs.cache
+C:\Users\katik\Downloads\14_DZI\DZI\DZI.Services\obj\Debug\net9.0\CampRating.Services.AssemblyInfo.cs
+C:\Users\katik\Downloads\14_DZI\DZI\DZI.Services\obj\Debug\net9.0\CampRating.Services.csproj.CoreCompileInputs.cache
+C:\Users\katik\Downloads\14_DZI\DZI\DZI.Services\obj\Debug\net9.0\CampRati.C414E742.Up2Date
+C:\Users\katik\Downloads\14_DZI\DZI\DZI.Services\obj\Debug\net9.0\CampRating.Services.dll
+C:\Users\katik\Downloads\14_DZI\DZI\DZI.Services\obj\Debug\net9.0\refint\CampRating.Services.dll
+C:\Users\katik\Downloads\14_DZI\DZI\DZI.Services\obj\Debug\net9.0\CampRating.Services.pdb
+C:\Users\katik\Downloads\14_DZI\DZI\DZI.Services\obj\Debug\net9.0\ref\CampRating.Services.dll

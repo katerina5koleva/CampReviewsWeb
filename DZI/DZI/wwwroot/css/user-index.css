@@ -1,0 +1,66 @@
+﻿/* styles.css */
+
+/* Container Margin */
+.container.mt-4 {
+    margin-top: 1.5rem;
+}
+
+/* Success message */
+.alert-success {
+    color: #155724;
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+}
+
+/* Error message */
+.alert-danger {
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+}
+
+/* Button styles */
+.btn {
+    font-size: 1rem;
+    padding: 0.375rem 0.75rem;
+    border-radius: 0.25rem;
+    text-align: center;
+}
+
+/* Create button */
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+/* Responsive table */
+.table-responsive {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+}
+
+/* Table Styling */
+.table-striped tbody tr:nth-child(odd) {
+    background-color: #f9f9f9;
+}
+
+.table-hover tbody tr:hover {
+    background-color: #f1f1f1;
+}
+
+.thead-dark {
+    background-color: #343a40;
+    color: white;
+}
+
+/* Button Group */
+.btn-group {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.btn-sm {
+    font-size: 0.875rem;
+    padding: 0.25rem 0.5rem;
+}

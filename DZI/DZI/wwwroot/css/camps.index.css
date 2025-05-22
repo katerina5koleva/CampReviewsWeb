@@ -1,0 +1,14 @@
+﻿.star-rating {
+    color: #ffc107;
+    font-size: 0.9rem;
+}
+
+.rating-count {
+    font-size: 0.8rem;
+    color: #6c757d;
+}
+
+.camp-image {
+    object-fit: cover;
+    height: 250px;
+}

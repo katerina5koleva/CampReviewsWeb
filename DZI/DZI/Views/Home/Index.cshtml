@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center home-container">
+    <h1 class="display-4">Welcome to CampRating</h1>
+    <p>Find and rate the best camps in your area</p>
+
+    @if (User.Identity.IsAuthenticated)
+    {
+        <div class="mt-4 home-buttons">
+            <a asp-controller="Camp" asp-action="Index" class="btn btn-primary btn-lg">View Camps</a>
+            <a asp-controller="Rating" asp-action="MyRatings" class="btn btn-primary btn-lg">View Your Ratings</a>
+        </div>
+    }
+    else
+    {
+        <div class="mt-4 home-buttons">
+            <a asp-controller="User" asp-action="Login" class="btn btn-primary btn-lg">Login</a>
+            <a asp-controller="User" asp-action="Create" class="btn btn-secondary btn-lg ms-2">Register</a>
+        </div>
+    }
+</div>
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/home-page.css" />
+}

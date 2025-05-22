@@ -1,0 +1,17 @@
+﻿.my-ratings-table {
+    border: 1px solid #dee2e6;
+}
+
+    .my-ratings-table th,
+    .my-ratings-table td {
+        vertical-align: middle;
+        text-align: center;
+    }
+
+.btn-group .btn {
+    margin-right: 5px;
+}
+
+    .btn-group .btn:last-child {
+        margin-right: 0;
+    }
